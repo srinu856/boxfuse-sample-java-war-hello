@@ -1,7 +1,7 @@
 boxfuse-sample-java-war-hello
 =============================
 
-Boxfuse Sample Hello World Java application packaged as file
+Boxfuse Sample Hello World Java application packaged as file war
 
 ## Prerequisites
 
